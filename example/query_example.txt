@@ -1,0 +1,164 @@
+テストクエリ
+該当のjsファイルに対して
+node {JSファイル}
+でサーバーたてた後、
+http://localhost:4000/graphql
+にアクセスし、各クエリと変数を代入してデータを取得する
+
+・server_graphql.js
+とりあえず入門としてhelloWorld
+
+----QUERY --------------------------------------------------
+{
+  hello
+}
+
+----QUERY VARIABLES-----------------------------------------
+
+------------------------------------------------------------
+
+
+・server_graphql2.js
+与えた引数(条件)に対応するデータが取得できていることを確認
+
+----QUERY --------------------------------------------------
+query getSingleCourse($courseID: Int!) {
+ course(id: $courseID) {
+  title
+  author
+  description
+  topic
+  url
+ }
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+ "courseID":1
+}
+------------------------------------------------------------
+
+・配列が取得できることも以下のクエリと変数で確認
+
+----QUERY --------------------------------------------------
+query getCourses($topic: String!) {
+ courses(topic: $topic) {
+  title
+  url
+ }
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+ "topic":"Node.js"
+}
+------------------------------------------------------------
+
+
+・server_graphql3.js
+Mulation(更新処理)について確認。取得されたデータがソースコードに記載したデータと異なることを確認。
+Idで検索して、topicを更新。またfragmentの挙動も確認。
+
+----QUERY --------------------------------------------------
+mutation updateCourseTopic($id: Int!, $topic: String!) {
+  updateCourseTopic(id: $id, topic: $topic) {
+    ... courseFields
+  }
+}
+fragment courseFields on Course {
+ title
+ author
+ description
+ topic
+ url
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+ "topic":"Node.js"
+}
+------------------------------------------------------------
+
+
+・server_graphql4.js
+データファイルを外出しした場合の挙動を確認。
+
+----QUERY --------------------------------------------------
+query getCourses($topic: String!) {
+ courses(topic: $topic) {
+  title
+  url
+ }
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+ "testId":1
+}
+------------------------------------------------------------
+
+
+・server_graphql5.js
+ランダムにwordList.jsonよりランダムに一つ単語を取得
+（idが変わっていることを確認）
+
+----QUERY --------------------------------------------------
+query getTestWords($testId: Int!) {
+  test(testId: $testId) {
+    id
+    title
+    testId
+    author
+    description
+    topic
+    word
+  }
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+ "testId":1
+}
+------------------------------------------------------------
+
+
+
+
+・server_graphql6.js
+実際のTOEIC単語を基に作成したJSONを使用
+
+----QUERY --------------------------------------------------
+query getWords($Part: String!) {
+  words(Part: $Part) {
+    ID
+    Word
+    Part
+    JP
+  }
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+ "Part":"動詞"
+}
+------------------------------------------------------------
+
+
+品詞で絞り込みランダムに結果取得（件数もランダム）
+----QUERY --------------------------------------------------
+query getRandomWords($Part: String!) {
+  randomWords(Part: $Part) {
+    ID
+    Word
+    Part
+    JP
+  }
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+ "Part":"動詞"
+}
+------------------------------------------------------------
+
+

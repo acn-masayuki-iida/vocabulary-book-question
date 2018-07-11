@@ -1,0 +1,3164 @@
+[
+  {
+    "ID": "1",
+    "Word": "accompany",
+    "Part": "動詞",
+    "JP": "…に同伴する"
+  },
+  {
+    "ID": "2",
+    "Word": "accomplish",
+    "Part": "動詞",
+    "JP": "…を成し遂げる"
+  },
+  {
+    "ID": "3",
+    "Word": "accumulate",
+    "Part": "動詞",
+    "JP": "（…を）蓄積する"
+  },
+  {
+    "ID": "4",
+    "Word": "acknowledge",
+    "Part": "動詞",
+    "JP": "…を認める，…の受領を知らせる"
+  },
+  {
+    "ID": "5",
+    "Word": "acquire",
+    "Part": "動詞",
+    "JP": "…を取得する"
+  },
+  {
+    "ID": "6",
+    "Word": "adapt",
+    "Part": "動詞",
+    "JP": "…を適応させる，適応する"
+  },
+  {
+    "ID": "7",
+    "Word": "administer",
+    "Part": "動詞",
+    "JP": "…を統治［統括］する"
+  },
+  {
+    "ID": "8",
+    "Word": "admit",
+    "Part": "動詞",
+    "JP": "…を認める，…を受け入れる"
+  },
+  {
+    "ID": "9",
+    "Word": "adopt",
+    "Part": "動詞",
+    "JP": "…を自分のものにする"
+  },
+  {
+    "ID": "10",
+    "Word": "advertise",
+    "Part": "動詞",
+    "JP": "…を宣伝［広告］する"
+  },
+  {
+    "ID": "11",
+    "Word": "affect",
+    "Part": "動詞",
+    "JP": "…に影響を及ぼす"
+  },
+  {
+    "ID": "12",
+    "Word": "afford",
+    "Part": "動詞",
+    "JP": "…の余裕がある"
+  },
+  {
+    "ID": "13",
+    "Word": "allow",
+    "Part": "動詞",
+    "JP": "…を許可する"
+  },
+  {
+    "ID": "14",
+    "Word": "alter",
+    "Part": "動詞",
+    "JP": "…を変える"
+  },
+  {
+    "ID": "15",
+    "Word": "analyze",
+    "Part": "動詞",
+    "JP": "…を分析する"
+  },
+  {
+    "ID": "16",
+    "Word": "annoy",
+    "Part": "動詞",
+    "JP": "…をイライラさせる"
+  },
+  {
+    "ID": "17",
+    "Word": "appeal",
+    "Part": "動詞",
+    "JP": "訴える"
+  },
+  {
+    "ID": "18",
+    "Word": "appear",
+    "Part": "動詞",
+    "JP": "現れる"
+  },
+  {
+    "ID": "19",
+    "Word": "appreciate",
+    "Part": "動詞",
+    "JP": "…に感謝する，…を鑑賞する"
+  },
+  {
+    "ID": "20",
+    "Word": "approve",
+    "Part": "動詞",
+    "JP": "承認する，よしとする"
+  },
+  {
+    "ID": "21",
+    "Word": "arrest",
+    "Part": "動詞",
+    "JP": "…を逮捕する"
+  },
+  {
+    "ID": "22",
+    "Word": "assert",
+    "Part": "動詞",
+    "JP": "…を主張する"
+  },
+  {
+    "ID": "23",
+    "Word": "assign",
+    "Part": "動詞",
+    "JP": "…を任命する"
+  },
+  {
+    "ID": "24",
+    "Word": "associate",
+    "Part": "動詞",
+    "JP": "…を結びつける"
+  },
+  {
+    "ID": "25",
+    "Word": "assume",
+    "Part": "動詞",
+    "JP": "勝手に…だと決めつける"
+  },
+  {
+    "ID": "26",
+    "Word": "assure",
+    "Part": "動詞",
+    "JP": "…に安心させる"
+  },
+  {
+    "ID": "27",
+    "Word": "attach",
+    "Part": "動詞",
+    "JP": "…を添付する"
+  },
+  {
+    "ID": "28",
+    "Word": "attain",
+    "Part": "動詞",
+    "JP": "…を達成する"
+  },
+  {
+    "ID": "29",
+    "Word": "attempt",
+    "Part": "動詞／名詞",
+    "JP": "…を試みる／試み"
+  },
+  {
+    "ID": "30",
+    "Word": "attribute",
+    "Part": "動詞",
+    "JP": "…（の原因）を帰する"
+  },
+  {
+    "ID": "31",
+    "Word": "avoid",
+    "Part": "動詞",
+    "JP": "…を避ける"
+  },
+  {
+    "ID": "32",
+    "Word": "be accustomed to",
+    "Part": "動詞句",
+    "JP": "…に慣れている"
+  },
+  {
+    "ID": "33",
+    "Word": "be bound to",
+    "Part": "動詞句",
+    "JP": "きっと…するだろう"
+  },
+  {
+    "ID": "34",
+    "Word": "blame",
+    "Part": "動詞／名詞",
+    "JP": "…を非難する／非難"
+  },
+  {
+    "ID": "35",
+    "Word": "boast",
+    "Part": "動詞",
+    "JP": "自慢して話す"
+  },
+  {
+    "ID": "36",
+    "Word": "bore",
+    "Part": "動詞",
+    "JP": "…を退屈させる"
+  },
+  {
+    "ID": "37",
+    "Word": "bother",
+    "Part": "動詞",
+    "JP": "…を困らせる，煩わしく思う"
+  },
+  {
+    "ID": "38",
+    "Word": "broadcast",
+    "Part": "動詞",
+    "JP": "…を放送する"
+  },
+  {
+    "ID": "39",
+    "Word": "calculate",
+    "Part": "動詞",
+    "JP": "…を計算する"
+  },
+  {
+    "ID": "40",
+    "Word": "capture",
+    "Part": "動詞",
+    "JP": "…を捕まえる"
+  },
+  {
+    "ID": "41",
+    "Word": "celebrate",
+    "Part": "動詞",
+    "JP": "…を祝う"
+  },
+  {
+    "ID": "42",
+    "Word": "cherish",
+    "Part": "動詞",
+    "JP": "…を大切にする"
+  },
+  {
+    "ID": "43",
+    "Word": "claim",
+    "Part": "動詞",
+    "JP": "…が自分のものだと主張する"
+  },
+  {
+    "ID": "44",
+    "Word": "classify",
+    "Part": "動詞",
+    "JP": "…を分類する"
+  },
+  {
+    "ID": "45",
+    "Word": "cling to",
+    "Part": "動詞句",
+    "JP": "…にしがみつく"
+  },
+  {
+    "ID": "46",
+    "Word": "collect",
+    "Part": "動詞",
+    "JP": "…を集める"
+  },
+  {
+    "ID": "47",
+    "Word": "command",
+    "Part": "動詞",
+    "JP": "…を命じる"
+  },
+  {
+    "ID": "48",
+    "Word": "communicate",
+    "Part": "動詞",
+    "JP": "意思を伝える"
+  },
+  {
+    "ID": "49",
+    "Word": "compel",
+    "Part": "動詞",
+    "JP": "…に強制する"
+  },
+  {
+    "ID": "50",
+    "Word": "conceal",
+    "Part": "動詞",
+    "JP": "…を隠す"
+  },
+  {
+    "ID": "51",
+    "Word": "concentrate",
+    "Part": "動詞",
+    "JP": "集中する"
+  },
+  {
+    "ID": "52",
+    "Word": "conclude",
+    "Part": "動詞",
+    "JP": "…だと結論づける，締めくくる"
+  },
+  {
+    "ID": "53",
+    "Word": "confirm",
+    "Part": "動詞",
+    "JP": "…が正しいことを確認する"
+  },
+  {
+    "ID": "54",
+    "Word": "confront",
+    "Part": "動詞",
+    "JP": "…に立ちはだかる"
+  },
+  {
+    "ID": "55",
+    "Word": "congratulate",
+    "Part": "動詞",
+    "JP": "…を祝福する"
+  },
+  {
+    "ID": "56",
+    "Word": "consider",
+    "Part": "動詞",
+    "JP": "…について考える"
+  },
+  {
+    "ID": "57",
+    "Word": "consist of",
+    "Part": "動詞句",
+    "JP": "…から成る"
+  },
+  {
+    "ID": "58",
+    "Word": "constitute",
+    "Part": "動詞",
+    "JP": "…であると見なされる"
+  },
+  {
+    "ID": "59",
+    "Word": "consume",
+    "Part": "動詞",
+    "JP": "…を消費する"
+  },
+  {
+    "ID": "60",
+    "Word": "contain",
+    "Part": "動詞",
+    "JP": "…を含む，…を抑制する"
+  },
+  {
+    "ID": "61",
+    "Word": "continue",
+    "Part": "動詞",
+    "JP": "…を続ける"
+  },
+  {
+    "ID": "62",
+    "Word": "contribute",
+    "Part": "動詞",
+    "JP": "…を寄付する，貢献する"
+  },
+  {
+    "ID": "63",
+    "Word": "convert",
+    "Part": "動詞",
+    "JP": "…を変える，変わる"
+  },
+  {
+    "ID": "64",
+    "Word": "convey",
+    "Part": "動詞",
+    "JP": "…を（人に）伝える，…を運ぶ"
+  },
+  {
+    "ID": "65",
+    "Word": "convince",
+    "Part": "動詞",
+    "JP": "…に納得させる"
+  },
+  {
+    "ID": "66",
+    "Word": "cooperate",
+    "Part": "動詞",
+    "JP": "協力する"
+  },
+  {
+    "ID": "67",
+    "Word": "criticize",
+    "Part": "動詞",
+    "JP": "…を批判する"
+  },
+  {
+    "ID": "68",
+    "Word": "cultivate",
+    "Part": "動詞",
+    "JP": "…を耕す，…を開拓する"
+  },
+  {
+    "ID": "69",
+    "Word": "cure",
+    "Part": "動詞",
+    "JP": "…から（病気を）治す"
+  },
+  {
+    "ID": "70",
+    "Word": "decline",
+    "Part": "動詞／名詞",
+    "JP": "減少する，…を断る／減少"
+  },
+  {
+    "ID": "71",
+    "Word": "defeat",
+    "Part": "動詞",
+    "JP": "…をうち負かす"
+  },
+  {
+    "ID": "72",
+    "Word": "delay",
+    "Part": "動詞／名詞",
+    "JP": "…を遅らせる／遅れ"
+  },
+  {
+    "ID": "73",
+    "Word": "deliver",
+    "Part": "動詞",
+    "JP": "…を配達する"
+  },
+  {
+    "ID": "74",
+    "Word": "deny",
+    "Part": "動詞",
+    "JP": "…を否定する"
+  },
+  {
+    "ID": "75",
+    "Word": "depend on",
+    "Part": "動詞句",
+    "JP": "…に頼る"
+  },
+  {
+    "ID": "76",
+    "Word": "describe",
+    "Part": "動詞",
+    "JP": "…を説明する，…について述べる"
+  },
+  {
+    "ID": "77",
+    "Word": "deserve",
+    "Part": "動詞",
+    "JP": "…に値する"
+  },
+  {
+    "ID": "78",
+    "Word": "determine",
+    "Part": "動詞",
+    "JP": "…を決定する"
+  },
+  {
+    "ID": "79",
+    "Word": "devote",
+    "Part": "動詞",
+    "JP": "…を傾注する"
+  },
+  {
+    "ID": "80",
+    "Word": "differ from",
+    "Part": "動詞句",
+    "JP": "…とは異なる"
+  },
+  {
+    "ID": "81",
+    "Word": "diminish",
+    "Part": "動詞",
+    "JP": "減少する"
+  },
+  {
+    "ID": "82",
+    "Word": "discuss",
+    "Part": "動詞",
+    "JP": "…について議論する"
+  },
+  {
+    "ID": "83",
+    "Word": "dismiss",
+    "Part": "動詞",
+    "JP": "…を解雇する"
+  },
+  {
+    "ID": "84",
+    "Word": "dispose of",
+    "Part": "動詞",
+    "JP": "…を処分する"
+  },
+  {
+    "ID": "85",
+    "Word": "distribute",
+    "Part": "動詞",
+    "JP": "…を分配する"
+  },
+  {
+    "ID": "86",
+    "Word": "disturb",
+    "Part": "動詞",
+    "JP": "…の邪魔をする"
+  },
+  {
+    "ID": "87",
+    "Word": "divide",
+    "Part": "動詞",
+    "JP": "…を分割する"
+  },
+  {
+    "ID": "88",
+    "Word": "drift",
+    "Part": "動詞",
+    "JP": "流れる，さまよう"
+  },
+  {
+    "ID": "89",
+    "Word": "earn",
+    "Part": "動詞",
+    "JP": "…を稼ぐ"
+  },
+  {
+    "ID": "90",
+    "Word": "employ",
+    "Part": "動詞",
+    "JP": "…を雇う"
+  },
+  {
+    "ID": "91",
+    "Word": "enable",
+    "Part": "動詞",
+    "JP": "…に可能にさせる"
+  },
+  {
+    "ID": "92",
+    "Word": "encounter",
+    "Part": "動詞",
+    "JP": "…に出くわす"
+  },
+  {
+    "ID": "93",
+    "Word": "encourage",
+    "Part": "動詞",
+    "JP": "…を励ます，…を助長する"
+  },
+  {
+    "ID": "94",
+    "Word": "endure",
+    "Part": "動詞",
+    "JP": "…に耐える"
+  },
+  {
+    "ID": "95",
+    "Word": "enforce",
+    "Part": "動詞",
+    "JP": "…を施行する，…を強要する"
+  },
+  {
+    "ID": "96",
+    "Word": "entertain",
+    "Part": "動詞",
+    "JP": "…を楽しませる"
+  },
+  {
+    "ID": "97",
+    "Word": "equip",
+    "Part": "動詞",
+    "JP": "…に備え付ける"
+  },
+  {
+    "ID": "98",
+    "Word": "examine",
+    "Part": "動詞",
+    "JP": "…を調べる"
+  },
+  {
+    "ID": "99",
+    "Word": "exceed",
+    "Part": "動詞",
+    "JP": "…を上回る"
+  },
+  {
+    "ID": "100",
+    "Word": "exchange",
+    "Part": "動詞／名詞",
+    "JP": "…を交換する／交換"
+  },
+  {
+    "ID": "101",
+    "Word": "exhaust",
+    "Part": "動詞／名詞",
+    "JP": "…をくたくたにさせる／排気"
+  },
+  {
+    "ID": "102",
+    "Word": "exhibit",
+    "Part": "動詞／名詞",
+    "JP": "…を展示する，…を表に出す，展示"
+  },
+  {
+    "ID": "103",
+    "Word": "expand",
+    "Part": "動詞",
+    "JP": "…を拡大する"
+  },
+  {
+    "ID": "104",
+    "Word": "experience",
+    "Part": "動詞／名詞",
+    "JP": "…を経験する／経験"
+  },
+  {
+    "ID": "105",
+    "Word": "explore",
+    "Part": "動詞",
+    "JP": "…を探検する，…を調べる"
+  },
+  {
+    "ID": "106",
+    "Word": "expose",
+    "Part": "動詞",
+    "JP": "…をさらす"
+  },
+  {
+    "ID": "107",
+    "Word": "extend",
+    "Part": "動詞",
+    "JP": "延びる，続く"
+  },
+  {
+    "ID": "108",
+    "Word": "fade",
+    "Part": "動詞",
+    "JP": "色あせる，次第に薄れる"
+  },
+  {
+    "ID": "109",
+    "Word": "fascinate",
+    "Part": "動詞",
+    "JP": "…を魅了する"
+  },
+  {
+    "ID": "110",
+    "Word": "fasten",
+    "Part": "動詞",
+    "JP": "…をしっかり固定する"
+  },
+  {
+    "ID": "111",
+    "Word": "feature",
+    "Part": "動詞／名詞",
+    "JP": "…を特徴としてもつ，…を特集する／特徴"
+  },
+  {
+    "ID": "112",
+    "Word": "flourish",
+    "Part": "動詞",
+    "JP": "繁栄する"
+  },
+  {
+    "ID": "113",
+    "Word": "force",
+    "Part": "動詞／名詞",
+    "JP": "…に強制する／力"
+  },
+  {
+    "ID": "114",
+    "Word": "fulfill",
+    "Part": "動詞",
+    "JP": "…を達成［実現］する"
+  },
+  {
+    "ID": "115",
+    "Word": "govern",
+    "Part": "動詞",
+    "JP": "…を統治する"
+  },
+  {
+    "ID": "116",
+    "Word": "graduate from",
+    "Part": "動詞句",
+    "JP": "…を卒業する"
+  },
+  {
+    "ID": "117",
+    "Word": "grasp",
+    "Part": "動詞",
+    "JP": "…を握る"
+  },
+  {
+    "ID": "118",
+    "Word": "heal",
+    "Part": "動詞",
+    "JP": "（…を）治癒する"
+  },
+  {
+    "ID": "119",
+    "Word": "hesitate",
+    "Part": "動詞",
+    "JP": "ためらう"
+  },
+  {
+    "ID": "120",
+    "Word": "illustrate",
+    "Part": "動詞",
+    "JP": "…を詳しく説明する"
+  },
+  {
+    "ID": "121",
+    "Word": "impose",
+    "Part": "動詞",
+    "JP": "…を課す，…を押しつける"
+  },
+  {
+    "ID": "122",
+    "Word": "include",
+    "Part": "動詞",
+    "JP": "…を含む"
+  },
+  {
+    "ID": "123",
+    "Word": "increase",
+    "Part": "動詞／名詞",
+    "JP": "増加する／増加"
+  },
+  {
+    "ID": "124",
+    "Word": "indicate",
+    "Part": "動詞",
+    "JP": "…を指し示す"
+  },
+  {
+    "ID": "125",
+    "Word": "induce",
+    "Part": "動詞",
+    "JP": "…を引き起こす"
+  },
+  {
+    "ID": "126",
+    "Word": "inherit",
+    "Part": "動詞",
+    "JP": "…を受け継ぐ"
+  },
+  {
+    "ID": "127",
+    "Word": "injure",
+    "Part": "動詞",
+    "JP": "…にけがを負わせる"
+  },
+  {
+    "ID": "128",
+    "Word": "intend to",
+    "Part": "動詞句",
+    "JP": "…するつもりである"
+  },
+  {
+    "ID": "129",
+    "Word": "interrupt",
+    "Part": "動詞",
+    "JP": "…の邪魔をする"
+  },
+  {
+    "ID": "130",
+    "Word": "invest",
+    "Part": "動詞",
+    "JP": "（…を）投資する"
+  },
+  {
+    "ID": "131",
+    "Word": "irritate",
+    "Part": "動詞",
+    "JP": "…をいらいらさせる"
+  },
+  {
+    "ID": "132",
+    "Word": "isolate",
+    "Part": "動詞",
+    "JP": "…を孤立化させる"
+  },
+  {
+    "ID": "133",
+    "Word": "kneel",
+    "Part": "動詞",
+    "JP": "膝を曲げてしゃがむ"
+  },
+  {
+    "ID": "134",
+    "Word": "lack",
+    "Part": "動詞／名詞",
+    "JP": "…を欠く／欠落"
+  },
+  {
+    "ID": "135",
+    "Word": "launch",
+    "Part": "動詞",
+    "JP": "…を始める"
+  },
+  {
+    "ID": "136",
+    "Word": "lean",
+    "Part": "動詞",
+    "JP": "体を傾ける，傾く"
+  },
+  {
+    "ID": "137",
+    "Word": "load",
+    "Part": "動詞／名詞",
+    "JP": "…に積み荷を載せる／積み荷"
+  },
+  {
+    "ID": "138",
+    "Word": "manufacture",
+    "Part": "動詞",
+    "JP": "…を製造する"
+  },
+  {
+    "ID": "139",
+    "Word": "measure",
+    "Part": "動詞／名詞",
+    "JP": "…を測る／方策"
+  },
+  {
+    "ID": "140",
+    "Word": "mold",
+    "Part": "動詞／名詞",
+    "JP": "…を形作る／鋳型"
+  },
+  {
+    "ID": "141",
+    "Word": "mount",
+    "Part": "動詞",
+    "JP": "…を実施する"
+  },
+  {
+    "ID": "142",
+    "Word": "neglect",
+    "Part": "動詞",
+    "JP": "…の世話を怠る，…を省みない"
+  },
+  {
+    "ID": "143",
+    "Word": "obey",
+    "Part": "動詞",
+    "JP": "…に従う"
+  },
+  {
+    "ID": "144",
+    "Word": "observe",
+    "Part": "動詞",
+    "JP": "…を観察する，…を遵守する"
+  },
+  {
+    "ID": "145",
+    "Word": "obtain",
+    "Part": "動詞",
+    "JP": "…を得る"
+  },
+  {
+    "ID": "146",
+    "Word": "offer",
+    "Part": "動詞",
+    "JP": "…を差し出す，…申し出る"
+  },
+  {
+    "ID": "147",
+    "Word": "operate",
+    "Part": "動詞",
+    "JP": "操業をする，…を操作する"
+  },
+  {
+    "ID": "148",
+    "Word": "order",
+    "Part": "動詞／名詞",
+    "JP": "…に命じる，…を注文する／命令"
+  },
+  {
+    "ID": "149",
+    "Word": "overcome",
+    "Part": "動詞",
+    "JP": "…を克服する"
+  },
+  {
+    "ID": "150",
+    "Word": "participate",
+    "Part": "動詞",
+    "JP": "参加する"
+  },
+  {
+    "ID": "151",
+    "Word": "perceive",
+    "Part": "動詞",
+    "JP": "…がわかる，…を知覚する"
+  },
+  {
+    "ID": "152",
+    "Word": "perform",
+    "Part": "動詞",
+    "JP": "…を行う"
+  },
+  {
+    "ID": "153",
+    "Word": "persist",
+    "Part": "動詞",
+    "JP": "頑固に続く，固執する"
+  },
+  {
+    "ID": "154",
+    "Word": "persuade",
+    "Part": "動詞",
+    "JP": "…を説得する"
+  },
+  {
+    "ID": "155",
+    "Word": "possess",
+    "Part": "動詞",
+    "JP": "…を所有する"
+  },
+  {
+    "ID": "156",
+    "Word": "postpone",
+    "Part": "動詞",
+    "JP": "…を延期する"
+  },
+  {
+    "ID": "157",
+    "Word": "praise",
+    "Part": "動詞",
+    "JP": "…を褒める"
+  },
+  {
+    "ID": "158",
+    "Word": "predict",
+    "Part": "動詞",
+    "JP": "…を予想する"
+  },
+  {
+    "ID": "159",
+    "Word": "prescribe",
+    "Part": "動詞",
+    "JP": "…を処方する，…を規定する"
+  },
+  {
+    "ID": "160",
+    "Word": "preserve",
+    "Part": "動詞",
+    "JP": "…を保存［保護］する"
+  },
+  {
+    "ID": "161",
+    "Word": "press",
+    "Part": "動詞／名詞",
+    "JP": "…を押す，…を押しつける"
+  },
+  {
+    "ID": "162",
+    "Word": "prevent",
+    "Part": "動詞",
+    "JP": "…を妨げる"
+  },
+  {
+    "ID": "163",
+    "Word": "promise",
+    "Part": "動詞／名詞",
+    "JP": "…を約束する／約束"
+  },
+  {
+    "ID": "164",
+    "Word": "promote",
+    "Part": "動詞",
+    "JP": "…を促進する"
+  },
+  {
+    "ID": "165",
+    "Word": "propose",
+    "Part": "動詞",
+    "JP": "…を提案する"
+  },
+  {
+    "ID": "166",
+    "Word": "provide",
+    "Part": "動詞",
+    "JP": "…に与える，…を与える"
+  },
+  {
+    "ID": "167",
+    "Word": "purchase",
+    "Part": "動詞／名詞",
+    "JP": "…を購入する／購入（品）"
+  },
+  {
+    "ID": "168",
+    "Word": "pursue",
+    "Part": "動詞",
+    "JP": "…を追求する"
+  },
+  {
+    "ID": "169",
+    "Word": "raise",
+    "Part": "動詞",
+    "JP": "…を上げる，…を育てる"
+  },
+  {
+    "ID": "170",
+    "Word": "recognize",
+    "Part": "動詞",
+    "JP": "…がそれ［その人］だとわかる"
+  },
+  {
+    "ID": "171",
+    "Word": "recommend",
+    "Part": "動詞",
+    "JP": "…を推薦する"
+  },
+  {
+    "ID": "172",
+    "Word": "reduce",
+    "Part": "動詞",
+    "JP": "…を減らす"
+  },
+  {
+    "ID": "173",
+    "Word": "regret",
+    "Part": "動詞",
+    "JP": "…を後悔する"
+  },
+  {
+    "ID": "174",
+    "Word": "reject",
+    "Part": "動詞",
+    "JP": "…を拒絶する"
+  },
+  {
+    "ID": "175",
+    "Word": "relate",
+    "Part": "動詞",
+    "JP": "関係する，…を関連づける"
+  },
+  {
+    "ID": "176",
+    "Word": "remain",
+    "Part": "動詞",
+    "JP": "～のままである，残る"
+  },
+  {
+    "ID": "177",
+    "Word": "remind",
+    "Part": "動詞",
+    "JP": "…に思い出させる"
+  },
+  {
+    "ID": "178",
+    "Word": "render",
+    "Part": "動詞",
+    "JP": "…を～にする"
+  },
+  {
+    "ID": "179",
+    "Word": "repair",
+    "Part": "動詞",
+    "JP": "…を修理する"
+  },
+  {
+    "ID": "180",
+    "Word": "represent",
+    "Part": "動詞",
+    "JP": "…を代表する，…を表す"
+  },
+  {
+    "ID": "181",
+    "Word": "require",
+    "Part": "動詞",
+    "JP": "…を必要とする"
+  },
+  {
+    "ID": "182",
+    "Word": "rescue",
+    "Part": "動詞／名詞",
+    "JP": "…を救出する／救出"
+  },
+  {
+    "ID": "183",
+    "Word": "resemble",
+    "Part": "動詞",
+    "JP": "…に似ている"
+  },
+  {
+    "ID": "184",
+    "Word": "reserve",
+    "Part": "動詞／名詞",
+    "JP": "…を取っておく，…を予約する／予備の蓄え"
+  },
+  {
+    "ID": "185",
+    "Word": "resign",
+    "Part": "動詞",
+    "JP": "辞任する"
+  },
+  {
+    "ID": "186",
+    "Word": "restore",
+    "Part": "動詞",
+    "JP": "…を取り戻す"
+  },
+  {
+    "ID": "187",
+    "Word": "restrict",
+    "Part": "動詞",
+    "JP": "…を制限［抑制］する"
+  },
+  {
+    "ID": "188",
+    "Word": "retire",
+    "Part": "動詞",
+    "JP": "退く，引退する"
+  },
+  {
+    "ID": "189",
+    "Word": "reverse",
+    "Part": "動詞",
+    "JP": "…を逆転させる"
+  },
+  {
+    "ID": "190",
+    "Word": "satisfy",
+    "Part": "動詞",
+    "JP": "…を満足させる"
+  },
+  {
+    "ID": "191",
+    "Word": "secure",
+    "Part": "動詞／形容詞",
+    "JP": "…を確保する／安全である"
+  },
+  {
+    "ID": "192",
+    "Word": "seek",
+    "Part": "動詞",
+    "JP": "…を求める"
+  },
+  {
+    "ID": "193",
+    "Word": "seize",
+    "Part": "動詞",
+    "JP": "…をつかむ，…を制圧する"
+  },
+  {
+    "ID": "194",
+    "Word": "shift",
+    "Part": "動詞／名詞",
+    "JP": "…を動かす［変える］／変更"
+  },
+  {
+    "ID": "195",
+    "Word": "stimulate",
+    "Part": "動詞",
+    "JP": "…を刺激する"
+  },
+  {
+    "ID": "196",
+    "Word": "strive",
+    "Part": "動詞",
+    "JP": "懸命に努力する"
+  },
+  {
+    "ID": "197",
+    "Word": "struggle",
+    "Part": "動詞",
+    "JP": "必死にもがく，奮闘する"
+  },
+  {
+    "ID": "198",
+    "Word": "submit",
+    "Part": "動詞",
+    "JP": "甘受する，…を提出する"
+  },
+  {
+    "ID": "199",
+    "Word": "substitute",
+    "Part": "動詞",
+    "JP": "…の代わりをする"
+  },
+  {
+    "ID": "200",
+    "Word": "suffer",
+    "Part": "動詞",
+    "JP": "苦しむ，…を被る"
+  },
+  {
+    "ID": "201",
+    "Word": "suggest",
+    "Part": "動詞",
+    "JP": "…を示唆する，…を提案する"
+  },
+  {
+    "ID": "202",
+    "Word": "support",
+    "Part": "動詞／名詞",
+    "JP": "…を支援する／支援"
+  },
+  {
+    "ID": "203",
+    "Word": "surpass",
+    "Part": "動詞",
+    "JP": "…より勝る"
+  },
+  {
+    "ID": "204",
+    "Word": "survive",
+    "Part": "動詞",
+    "JP": "…を生き延びる，生存する"
+  },
+  {
+    "ID": "205",
+    "Word": "suspect",
+    "Part": "動詞／名詞",
+    "JP": "…を疑う／容疑者"
+  },
+  {
+    "ID": "206",
+    "Word": "sustain",
+    "Part": "動詞",
+    "JP": "…を維持［継続］する"
+  },
+  {
+    "ID": "207",
+    "Word": "swell",
+    "Part": "動詞",
+    "JP": "膨らむ"
+  },
+  {
+    "ID": "208",
+    "Word": "tease",
+    "Part": "動詞",
+    "JP": "…をからかう"
+  },
+  {
+    "ID": "209",
+    "Word": "transform",
+    "Part": "動詞",
+    "JP": "…を変える"
+  },
+  {
+    "ID": "210",
+    "Word": "treat",
+    "Part": "動詞",
+    "JP": "…を扱う"
+  },
+  {
+    "ID": "211",
+    "Word": "tremble",
+    "Part": "動詞",
+    "JP": "震える"
+  },
+  {
+    "ID": "212",
+    "Word": "undergo",
+    "Part": "動詞",
+    "JP": "…を受ける"
+  },
+  {
+    "ID": "213",
+    "Word": "undertake",
+    "Part": "動詞",
+    "JP": "…を引き受ける"
+  },
+  {
+    "ID": "214",
+    "Word": "vary",
+    "Part": "動詞",
+    "JP": "様々である，異なる"
+  },
+  {
+    "ID": "215",
+    "Word": "vote",
+    "Part": "動詞／名詞",
+    "JP": "投票する／投票"
+  },
+  {
+    "ID": "216",
+    "Word": "withdraw",
+    "Part": "動詞",
+    "JP": "退く，…を引き出す"
+  },
+  {
+    "ID": "217",
+    "Word": "witness",
+    "Part": "動詞／名詞",
+    "JP": "…を目撃する／目撃者"
+  },
+  {
+    "ID": "218",
+    "Word": "access",
+    "Part": "名詞",
+    "JP": "アクセス，使用［閲覧］する機会［権利］"
+  },
+  {
+    "ID": "219",
+    "Word": "account",
+    "Part": "名詞",
+    "JP": "勘定，口座，説明"
+  },
+  {
+    "ID": "220",
+    "Word": "administration",
+    "Part": "名詞",
+    "JP": "（組織の）運営，政権"
+  },
+  {
+    "ID": "221",
+    "Word": "advance",
+    "Part": "名詞／形容詞",
+    "JP": "前進／前もっての"
+  },
+  {
+    "ID": "222",
+    "Word": "advantage",
+    "Part": "名詞",
+    "JP": "有利"
+  },
+  {
+    "ID": "223",
+    "Word": "agriculture",
+    "Part": "名詞",
+    "JP": "農業"
+  },
+  {
+    "ID": "224",
+    "Word": "ambition",
+    "Part": "名詞",
+    "JP": "夢，大志"
+  },
+  {
+    "ID": "225",
+    "Word": "amount",
+    "Part": "名詞／動詞",
+    "JP": "量／達する"
+  },
+  {
+    "ID": "226",
+    "Word": "appetite",
+    "Part": "名詞",
+    "JP": "食欲"
+  },
+  {
+    "ID": "227",
+    "Word": "architecture",
+    "Part": "名詞",
+    "JP": "建築"
+  },
+  {
+    "ID": "228",
+    "Word": "aspect",
+    "Part": "名詞",
+    "JP": "面，側面"
+  },
+  {
+    "ID": "229",
+    "Word": "atmosphere",
+    "Part": "名詞",
+    "JP": "雰囲気"
+  },
+  {
+    "ID": "230",
+    "Word": "award",
+    "Part": "名詞／動詞",
+    "JP": "賞／…に賞を授ける"
+  },
+  {
+    "ID": "231",
+    "Word": "benefit",
+    "Part": "名詞／動詞",
+    "JP": "利益，恩恵／…に利益をもたらす"
+  },
+  {
+    "ID": "232",
+    "Word": "biography",
+    "Part": "名詞",
+    "JP": "伝記"
+  },
+  {
+    "ID": "233",
+    "Word": "budget",
+    "Part": "名詞",
+    "JP": "予算"
+  },
+  {
+    "ID": "234",
+    "Word": "burden",
+    "Part": "名詞",
+    "JP": "荷物，重荷"
+  },
+  {
+    "ID": "235",
+    "Word": "campaign",
+    "Part": "名詞／動詞",
+    "JP": "政治的運動／政治運動をする"
+  },
+  {
+    "ID": "236",
+    "Word": "career",
+    "Part": "名詞",
+    "JP": "職業"
+  },
+  {
+    "ID": "237",
+    "Word": "cause",
+    "Part": "名詞／動詞",
+    "JP": "原因／…を引き起こす"
+  },
+  {
+    "ID": "238",
+    "Word": "ceremony",
+    "Part": "名詞",
+    "JP": "儀式"
+  },
+  {
+    "ID": "239",
+    "Word": "channel",
+    "Part": "名詞",
+    "JP": "経路，ルート，海峡"
+  },
+  {
+    "ID": "240",
+    "Word": "charge",
+    "Part": "名詞／動詞",
+    "JP": "料金，…を徴収する，…を告訴［起訴］する"
+  },
+  {
+    "ID": "241",
+    "Word": "circumstance",
+    "Part": "名詞",
+    "JP": "事態，状況"
+  },
+  {
+    "ID": "242",
+    "Word": "civilization",
+    "Part": "名詞",
+    "JP": "文明"
+  },
+  {
+    "ID": "243",
+    "Word": "clue",
+    "Part": "名詞",
+    "JP": "手がかり"
+  },
+  {
+    "ID": "244",
+    "Word": "colleague",
+    "Part": "名詞",
+    "JP": "同僚"
+  },
+  {
+    "ID": "245",
+    "Word": "colony",
+    "Part": "名詞",
+    "JP": "植民地"
+  },
+  {
+    "ID": "246",
+    "Word": "column",
+    "Part": "名詞",
+    "JP": "柱，（文の）列，コラム"
+  },
+  {
+    "ID": "247",
+    "Word": "committee",
+    "Part": "名詞",
+    "JP": "委員会"
+  },
+  {
+    "ID": "248",
+    "Word": "commodity",
+    "Part": "名詞",
+    "JP": "商品"
+  },
+  {
+    "ID": "249",
+    "Word": "community",
+    "Part": "名詞",
+    "JP": "地域社会"
+  },
+  {
+    "ID": "250",
+    "Word": "companion",
+    "Part": "名詞",
+    "JP": "同伴者，連れ"
+  },
+  {
+    "ID": "251",
+    "Word": "company",
+    "Part": "名詞",
+    "JP": "会社，仲間"
+  },
+  {
+    "ID": "252",
+    "Word": "compromise",
+    "Part": "名詞／動詞",
+    "JP": "妥協／妥協をする"
+  },
+  {
+    "ID": "253",
+    "Word": "concept",
+    "Part": "名詞",
+    "JP": "概念，考え方"
+  },
+  {
+    "ID": "254",
+    "Word": "conduct",
+    "Part": "名詞／動詞",
+    "JP": "行い／…を行う"
+  },
+  {
+    "ID": "255",
+    "Word": "conductor",
+    "Part": "名詞",
+    "JP": "車掌，指揮者"
+  },
+  {
+    "ID": "256",
+    "Word": "conference",
+    "Part": "名詞",
+    "JP": "会議"
+  },
+  {
+    "ID": "257",
+    "Word": "confidence",
+    "Part": "名詞",
+    "JP": "自信，信用"
+  },
+  {
+    "ID": "258",
+    "Word": "conflict",
+    "Part": "名詞",
+    "JP": "争い"
+  },
+  {
+    "ID": "259",
+    "Word": "congress",
+    "Part": "名詞",
+    "JP": "議会"
+  },
+  {
+    "ID": "260",
+    "Word": "conscience",
+    "Part": "名詞",
+    "JP": "良心"
+  },
+  {
+    "ID": "261",
+    "Word": "contempt",
+    "Part": "名詞",
+    "JP": "侮辱"
+  },
+  {
+    "ID": "262",
+    "Word": "content",
+    "Part": "名詞／形容詞",
+    "JP": "内容／満足した"
+  },
+  {
+    "ID": "263",
+    "Word": "contract",
+    "Part": "名詞",
+    "JP": "契約"
+  },
+  {
+    "ID": "264",
+    "Word": "contrast",
+    "Part": "名詞",
+    "JP": "対照，対比"
+  },
+  {
+    "ID": "265",
+    "Word": "courage",
+    "Part": "名詞",
+    "JP": "勇気"
+  },
+  {
+    "ID": "266",
+    "Word": "craft",
+    "Part": "名詞",
+    "JP": "工芸，技巧"
+  },
+  {
+    "ID": "267",
+    "Word": "credit",
+    "Part": "名詞",
+    "JP": "借り入れ期間，信用"
+  },
+  {
+    "ID": "268",
+    "Word": "debt",
+    "Part": "名詞",
+    "JP": "借金，債務"
+  },
+  {
+    "ID": "269",
+    "Word": "decrease",
+    "Part": "名詞",
+    "JP": "減少，減少する"
+  },
+  {
+    "ID": "270",
+    "Word": "deed",
+    "Part": "名詞",
+    "JP": "行い"
+  },
+  {
+    "ID": "271",
+    "Word": "defect",
+    "Part": "名詞",
+    "JP": "欠陥，欠点"
+  },
+  {
+    "ID": "272",
+    "Word": "delight",
+    "Part": "名詞",
+    "JP": "大きな喜び"
+  },
+  {
+    "ID": "273",
+    "Word": "demand",
+    "Part": "名詞／動詞",
+    "JP": "需要／…を要求する"
+  },
+  {
+    "ID": "274",
+    "Word": "deposit",
+    "Part": "名詞",
+    "JP": "預金"
+  },
+  {
+    "ID": "275",
+    "Word": "descendant",
+    "Part": "名詞",
+    "JP": "子孫"
+  },
+  {
+    "ID": "276",
+    "Word": "destination",
+    "Part": "名詞",
+    "JP": "目的地"
+  },
+  {
+    "ID": "277",
+    "Word": "detail",
+    "Part": "名詞",
+    "JP": "詳細"
+  },
+  {
+    "ID": "278",
+    "Word": "device",
+    "Part": "名詞",
+    "JP": "装置"
+  },
+  {
+    "ID": "279",
+    "Word": "difference",
+    "Part": "名詞",
+    "JP": "違い"
+  },
+  {
+    "ID": "280",
+    "Word": "diplomat",
+    "Part": "名詞",
+    "JP": "外交員"
+  },
+  {
+    "ID": "281",
+    "Word": "disaster",
+    "Part": "名詞",
+    "JP": "災害，惨事"
+  },
+  {
+    "ID": "282",
+    "Word": "discipline",
+    "Part": "名詞",
+    "JP": "規律，しつけ"
+  },
+  {
+    "ID": "283",
+    "Word": "disease",
+    "Part": "名詞",
+    "JP": "病気"
+  },
+  {
+    "ID": "284",
+    "Word": "dispense with",
+    "Part": "名詞",
+    "JP": "…を破棄する"
+  },
+  {
+    "ID": "285",
+    "Word": "district",
+    "Part": "名詞",
+    "JP": "地域，地方"
+  },
+  {
+    "ID": "286",
+    "Word": "document",
+    "Part": "名詞",
+    "JP": "文書"
+  },
+  {
+    "ID": "287",
+    "Word": "economy",
+    "Part": "名詞",
+    "JP": "経済"
+  },
+  {
+    "ID": "288",
+    "Word": "effect",
+    "Part": "名詞",
+    "JP": "効果，影響"
+  },
+  {
+    "ID": "289",
+    "Word": "effort",
+    "Part": "名詞",
+    "JP": "努力"
+  },
+  {
+    "ID": "290",
+    "Word": "election",
+    "Part": "名詞",
+    "JP": "選挙"
+  },
+  {
+    "ID": "291",
+    "Word": "emotion",
+    "Part": "名詞",
+    "JP": "感情"
+  },
+  {
+    "ID": "292",
+    "Word": "employee",
+    "Part": "名詞",
+    "JP": "従業員"
+  },
+  {
+    "ID": "293",
+    "Word": "enterprise",
+    "Part": "名詞",
+    "JP": "事業，事業体"
+  },
+  {
+    "ID": "294",
+    "Word": "enthusiasm",
+    "Part": "名詞",
+    "JP": "熱意，熱心"
+  },
+  {
+    "ID": "295",
+    "Word": "environment",
+    "Part": "名詞",
+    "JP": "環境"
+  },
+  {
+    "ID": "296",
+    "Word": "estate",
+    "Part": "名詞",
+    "JP": "所有地，遺産"
+  },
+  {
+    "ID": "297",
+    "Word": "estimate",
+    "Part": "名詞／動詞",
+    "JP": "見積もり，推定／…を見積もる"
+  },
+  {
+    "ID": "298",
+    "Word": "event",
+    "Part": "名詞",
+    "JP": "出来事"
+  },
+  {
+    "ID": "299",
+    "Word": "evidence",
+    "Part": "名詞",
+    "JP": "証拠"
+  },
+  {
+    "ID": "300",
+    "Word": "exhibition",
+    "Part": "名詞",
+    "JP": "展示，展示会"
+  },
+  {
+    "ID": "301",
+    "Word": "expense",
+    "Part": "名詞",
+    "JP": "費用"
+  },
+  {
+    "ID": "302",
+    "Word": "expert",
+    "Part": "名詞",
+    "JP": "専門家"
+  },
+  {
+    "ID": "303",
+    "Word": "facility",
+    "Part": "名詞",
+    "JP": "施設"
+  },
+  {
+    "ID": "304",
+    "Word": "faculty",
+    "Part": "名詞",
+    "JP": "教授陣"
+  },
+  {
+    "ID": "305",
+    "Word": "figure",
+    "Part": "名詞",
+    "JP": "数字，人物"
+  },
+  {
+    "ID": "306",
+    "Word": "focus",
+    "Part": "名詞／動詞",
+    "JP": "焦点，焦点を定める"
+  },
+  {
+    "ID": "307",
+    "Word": "fortune",
+    "Part": "名詞",
+    "JP": "幸運，富"
+  },
+  {
+    "ID": "308",
+    "Word": "foundation",
+    "Part": "名詞",
+    "JP": "基礎，土台，根拠"
+  },
+  {
+    "ID": "309",
+    "Word": "fuel",
+    "Part": "名詞",
+    "JP": "燃料"
+  },
+  {
+    "ID": "310",
+    "Word": "function",
+    "Part": "名詞／動詞",
+    "JP": "機能／機能する"
+  },
+  {
+    "ID": "311",
+    "Word": "generation",
+    "Part": "名詞",
+    "JP": "世代"
+  },
+  {
+    "ID": "312",
+    "Word": "genius",
+    "Part": "名詞",
+    "JP": "天才"
+  },
+  {
+    "ID": "313",
+    "Word": "grant",
+    "Part": "名詞",
+    "JP": "助成金，補助金"
+  },
+  {
+    "ID": "314",
+    "Word": "gratitude",
+    "Part": "名詞",
+    "JP": "感謝"
+  },
+  {
+    "ID": "315",
+    "Word": "grocery",
+    "Part": "名詞",
+    "JP": "食糧雑貨店"
+  },
+  {
+    "ID": "316",
+    "Word": "impulse",
+    "Part": "名詞",
+    "JP": "衝動"
+  },
+  {
+    "ID": "317",
+    "Word": "incident",
+    "Part": "名詞",
+    "JP": "事件"
+  },
+  {
+    "ID": "318",
+    "Word": "income",
+    "Part": "名詞",
+    "JP": "収入"
+  },
+  {
+    "ID": "319",
+    "Word": "industry",
+    "Part": "名詞",
+    "JP": "産業"
+  },
+  {
+    "ID": "320",
+    "Word": "inquiry",
+    "Part": "名詞",
+    "JP": "問い合わせ"
+  },
+  {
+    "ID": "321",
+    "Word": "insight",
+    "Part": "名詞",
+    "JP": "正確で深い理解，洞察"
+  },
+  {
+    "ID": "322",
+    "Word": "institution",
+    "Part": "名詞",
+    "JP": "（社会に根ざした）制度，組織"
+  },
+  {
+    "ID": "323",
+    "Word": "instruction",
+    "Part": "名詞",
+    "JP": "指示"
+  },
+  {
+    "ID": "324",
+    "Word": "interior",
+    "Part": "名詞",
+    "JP": "内部，内装"
+  },
+  {
+    "ID": "325",
+    "Word": "interval",
+    "Part": "名詞",
+    "JP": "間隔"
+  },
+  {
+    "ID": "326",
+    "Word": "investigation",
+    "Part": "名詞",
+    "JP": "調査，捜査"
+  },
+  {
+    "ID": "327",
+    "Word": "issue",
+    "Part": "名詞",
+    "JP": "（議論の対象となる）問題"
+  },
+  {
+    "ID": "328",
+    "Word": "labor",
+    "Part": "名詞",
+    "JP": "労働"
+  },
+  {
+    "ID": "329",
+    "Word": "landscape",
+    "Part": "名詞",
+    "JP": "風景"
+  },
+  {
+    "ID": "330",
+    "Word": "link",
+    "Part": "名詞／動詞",
+    "JP": "つながり／…をつなげる"
+  },
+  {
+    "ID": "331",
+    "Word": "liquid",
+    "Part": "名詞",
+    "JP": "液体"
+  },
+  {
+    "ID": "332",
+    "Word": "literature",
+    "Part": "名詞",
+    "JP": "文学"
+  },
+  {
+    "ID": "333",
+    "Word": "luxury",
+    "Part": "名詞",
+    "JP": "贅沢"
+  },
+  {
+    "ID": "334",
+    "Word": "male",
+    "Part": "名詞／女性",
+    "JP": "雄，男性／雄の，男性の"
+  },
+  {
+    "ID": "335",
+    "Word": "material",
+    "Part": "名詞／形容詞",
+    "JP": "材料，素材／物質の"
+  },
+  {
+    "ID": "336",
+    "Word": "medium",
+    "Part": "名詞",
+    "JP": "中ぐらいの"
+  },
+  {
+    "ID": "337",
+    "Word": "merchant",
+    "Part": "名詞",
+    "JP": "商人"
+  },
+  {
+    "ID": "338",
+    "Word": "minister",
+    "Part": "名詞",
+    "JP": "大臣，聖職者"
+  },
+  {
+    "ID": "339",
+    "Word": "mode",
+    "Part": "名詞",
+    "JP": "方法，様式"
+  },
+  {
+    "ID": "340",
+    "Word": "muscle",
+    "Part": "名詞",
+    "JP": "筋肉"
+  },
+  {
+    "ID": "341",
+    "Word": "notion",
+    "Part": "名詞",
+    "JP": "考え"
+  },
+  {
+    "ID": "342",
+    "Word": "novel",
+    "Part": "名詞／形容詞",
+    "JP": "小説／新奇な"
+  },
+  {
+    "ID": "343",
+    "Word": "obstacle",
+    "Part": "名詞",
+    "JP": "障害"
+  },
+  {
+    "ID": "344",
+    "Word": "occasion",
+    "Part": "名詞",
+    "JP": "機会，場合"
+  },
+  {
+    "ID": "345",
+    "Word": "opportunity",
+    "Part": "名詞",
+    "JP": "機会　"
+  },
+  {
+    "ID": "346",
+    "Word": "organization",
+    "Part": "名詞",
+    "JP": "組織"
+  },
+  {
+    "ID": "347",
+    "Word": "ornament",
+    "Part": "名詞",
+    "JP": "装飾品"
+  },
+  {
+    "ID": "348",
+    "Word": "outcome",
+    "Part": "名詞",
+    "JP": "結果"
+  },
+  {
+    "ID": "349",
+    "Word": "outlook",
+    "Part": "名詞",
+    "JP": "見通し，見方"
+  },
+  {
+    "ID": "350",
+    "Word": "parallel",
+    "Part": "名詞",
+    "JP": "並行"
+  },
+  {
+    "ID": "351",
+    "Word": "perspective",
+    "Part": "名詞",
+    "JP": "視点，観点"
+  },
+  {
+    "ID": "352",
+    "Word": "phenomenon",
+    "Part": "名詞",
+    "JP": "現象"
+  },
+  {
+    "ID": "353",
+    "Word": "policy",
+    "Part": "名詞",
+    "JP": "政策，方針"
+  },
+  {
+    "ID": "354",
+    "Word": "pollution",
+    "Part": "名詞",
+    "JP": "公害"
+  },
+  {
+    "ID": "355",
+    "Word": "portion",
+    "Part": "名詞",
+    "JP": "部分"
+  },
+  {
+    "ID": "356",
+    "Word": "practice",
+    "Part": "名詞／動詞",
+    "JP": "練習，実践／…を練習する"
+  },
+  {
+    "ID": "357",
+    "Word": "privilege",
+    "Part": "名詞",
+    "JP": "特権"
+  },
+  {
+    "ID": "358",
+    "Word": "process",
+    "Part": "名詞",
+    "JP": "過程"
+  },
+  {
+    "ID": "359",
+    "Word": "product",
+    "Part": "名詞",
+    "JP": "製品，産物"
+  },
+  {
+    "ID": "360",
+    "Word": "profit",
+    "Part": "名詞",
+    "JP": "利益"
+  },
+  {
+    "ID": "361",
+    "Word": "property",
+    "Part": "名詞",
+    "JP": "所有物，財産，不動産"
+  },
+  {
+    "ID": "362",
+    "Word": "punishment",
+    "Part": "名詞",
+    "JP": "罰"
+  },
+  {
+    "ID": "363",
+    "Word": "purpose",
+    "Part": "名詞",
+    "JP": "目的"
+  },
+  {
+    "ID": "364",
+    "Word": "quality",
+    "Part": "名詞",
+    "JP": "質"
+  },
+  {
+    "ID": "365",
+    "Word": "quarter",
+    "Part": "名詞",
+    "JP": "４分の１，四半期"
+  },
+  {
+    "ID": "366",
+    "Word": "rage",
+    "Part": "名詞",
+    "JP": "激怒"
+  },
+  {
+    "ID": "367",
+    "Word": "rate",
+    "Part": "名詞",
+    "JP": "率"
+  },
+  {
+    "ID": "368",
+    "Word": "recess",
+    "Part": "名詞",
+    "JP": "休み"
+  },
+  {
+    "ID": "369",
+    "Word": "reform",
+    "Part": "名詞／動詞",
+    "JP": "改革／…を改革する"
+  },
+  {
+    "ID": "370",
+    "Word": "reputation",
+    "Part": "名詞",
+    "JP": "評判"
+  },
+  {
+    "ID": "371",
+    "Word": "research",
+    "Part": "名詞",
+    "JP": "研究"
+  },
+  {
+    "ID": "372",
+    "Word": "resource",
+    "Part": "名詞",
+    "JP": "資源"
+  },
+  {
+    "ID": "373",
+    "Word": "respect",
+    "Part": "名詞／動詞",
+    "JP": "…を尊敬［尊重］する／尊敬，尊重"
+  },
+  {
+    "ID": "374",
+    "Word": "result",
+    "Part": "名詞",
+    "JP": "結果"
+  },
+  {
+    "ID": "375",
+    "Word": "satellite",
+    "Part": "名詞",
+    "JP": "衛星"
+  },
+  {
+    "ID": "376",
+    "Word": "scheme",
+    "Part": "名詞",
+    "JP": "計画"
+  },
+  {
+    "ID": "377",
+    "Word": "scope",
+    "Part": "名詞",
+    "JP": "範囲"
+  },
+  {
+    "ID": "378",
+    "Word": "sculpture",
+    "Part": "名詞",
+    "JP": "彫刻"
+  },
+  {
+    "ID": "379",
+    "Word": "section",
+    "Part": "名詞",
+    "JP": "課，部門，（文章の）節"
+  },
+  {
+    "ID": "380",
+    "Word": "shelter",
+    "Part": "名詞",
+    "JP": "避難場所"
+  },
+  {
+    "ID": "381",
+    "Word": "shortage",
+    "Part": "名詞",
+    "JP": "不足"
+  },
+  {
+    "ID": "382",
+    "Word": "situation",
+    "Part": "名詞",
+    "JP": "状況"
+  },
+  {
+    "ID": "383",
+    "Word": "skyscraper",
+    "Part": "名詞",
+    "JP": "高層ビル"
+  },
+  {
+    "ID": "384",
+    "Word": "solution",
+    "Part": "名詞",
+    "JP": "解決（策）"
+  },
+  {
+    "ID": "385",
+    "Word": "sort",
+    "Part": "名詞",
+    "JP": "類"
+  },
+  {
+    "ID": "386",
+    "Word": "source",
+    "Part": "名詞",
+    "JP": "源"
+  },
+  {
+    "ID": "387",
+    "Word": "species",
+    "Part": "名詞",
+    "JP": "種，種族"
+  },
+  {
+    "ID": "388",
+    "Word": "staff",
+    "Part": "名詞",
+    "JP": "職員，作業員"
+  },
+  {
+    "ID": "389",
+    "Word": "stock",
+    "Part": "名詞",
+    "JP": "在庫，株"
+  },
+  {
+    "ID": "390",
+    "Word": "storage",
+    "Part": "名詞",
+    "JP": "貯蔵"
+  },
+  {
+    "ID": "391",
+    "Word": "structure",
+    "Part": "名詞",
+    "JP": "構造"
+  },
+  {
+    "ID": "392",
+    "Word": "stuff",
+    "Part": "名詞",
+    "JP": "物，モノ"
+  },
+  {
+    "ID": "393",
+    "Word": "supply",
+    "Part": "名詞",
+    "JP": "供給"
+  },
+  {
+    "ID": "394",
+    "Word": "surface",
+    "Part": "名詞",
+    "JP": "表面　"
+  },
+  {
+    "ID": "395",
+    "Word": "surplus",
+    "Part": "名詞",
+    "JP": "余剰，黒字"
+  },
+  {
+    "ID": "396",
+    "Word": "survey",
+    "Part": "名詞",
+    "JP": "調査"
+  },
+  {
+    "ID": "397",
+    "Word": "sympathy",
+    "Part": "名詞",
+    "JP": "同情，共感"
+  },
+  {
+    "ID": "398",
+    "Word": "tax",
+    "Part": "名詞",
+    "JP": "税金"
+  },
+  {
+    "ID": "399",
+    "Word": "technology",
+    "Part": "名詞",
+    "JP": "技術"
+  },
+  {
+    "ID": "400",
+    "Word": "temperature",
+    "Part": "名詞",
+    "JP": "温度，体温"
+  },
+  {
+    "ID": "401",
+    "Word": "term",
+    "Part": "名詞",
+    "JP": "条件，期間，間柄，用語"
+  },
+  {
+    "ID": "402",
+    "Word": "testimony",
+    "Part": "名詞",
+    "JP": "証言，証左"
+  },
+  {
+    "ID": "403",
+    "Word": "thermometer",
+    "Part": "名詞",
+    "JP": "温度計"
+  },
+  {
+    "ID": "404",
+    "Word": "threat",
+    "Part": "名詞",
+    "JP": "脅威"
+  },
+  {
+    "ID": "405",
+    "Word": "track",
+    "Part": "名詞／動詞",
+    "JP": "小道，…を追跡する"
+  },
+  {
+    "ID": "406",
+    "Word": "transport",
+    "Part": "名詞／動詞",
+    "JP": "輸送／…を輸送する"
+  },
+  {
+    "ID": "407",
+    "Word": "treaty",
+    "Part": "名詞",
+    "JP": "条約"
+  },
+  {
+    "ID": "408",
+    "Word": "trial",
+    "Part": "名詞",
+    "JP": "裁判，試験"
+  },
+  {
+    "ID": "409",
+    "Word": "utility",
+    "Part": "名詞",
+    "JP": "有用，有益，公共サービス"
+  },
+  {
+    "ID": "410",
+    "Word": "value",
+    "Part": "名詞／動詞",
+    "JP": "価値"
+  },
+  {
+    "ID": "411",
+    "Word": "vehicle",
+    "Part": "名詞",
+    "JP": "乗り物"
+  },
+  {
+    "ID": "412",
+    "Word": "venture",
+    "Part": "名詞",
+    "JP": "（リスクを伴う）新事業"
+  },
+  {
+    "ID": "413",
+    "Word": "vision",
+    "Part": "名詞",
+    "JP": "先見，視力"
+  },
+  {
+    "ID": "414",
+    "Word": "voyage",
+    "Part": "名詞",
+    "JP": "航海"
+  },
+  {
+    "ID": "415",
+    "Word": "wage",
+    "Part": "名詞",
+    "JP": "賃金"
+  },
+  {
+    "ID": "416",
+    "Word": "welfare",
+    "Part": "名詞",
+    "JP": "福祉，幸福"
+  },
+  {
+    "ID": "417",
+    "Word": "abstract",
+    "Part": "形容詞",
+    "JP": "抽象的な"
+  },
+  {
+    "ID": "418",
+    "Word": "abundant",
+    "Part": "形容詞",
+    "JP": "豊富な"
+  },
+  {
+    "ID": "419",
+    "Word": "accurate",
+    "Part": "形容詞",
+    "JP": "正確な"
+  },
+  {
+    "ID": "420",
+    "Word": "adequate",
+    "Part": "形容詞",
+    "JP": "適切な"
+  },
+  {
+    "ID": "421",
+    "Word": "aggressive",
+    "Part": "形容詞",
+    "JP": "攻撃的な，どん欲な"
+  },
+  {
+    "ID": "422",
+    "Word": "alert",
+    "Part": "形容詞",
+    "JP": "用心した，注意力を喚起した"
+  },
+  {
+    "ID": "423",
+    "Word": "appropriate",
+    "Part": "形容詞",
+    "JP": "適切な"
+  },
+  {
+    "ID": "424",
+    "Word": "available",
+    "Part": "形容詞",
+    "JP": "手に入る，使える"
+  },
+  {
+    "ID": "425",
+    "Word": "awful",
+    "Part": "形容詞",
+    "JP": "ひどい"
+  },
+  {
+    "ID": "426",
+    "Word": "bare",
+    "Part": "形容詞",
+    "JP": "裸の"
+  },
+  {
+    "ID": "427",
+    "Word": "civil",
+    "Part": "形容詞",
+    "JP": "民間の，公民の"
+  },
+  {
+    "ID": "428",
+    "Word": "coarse",
+    "Part": "形容詞",
+    "JP": "粗い，粗野な"
+  },
+  {
+    "ID": "429",
+    "Word": "commercial",
+    "Part": "形容詞",
+    "JP": "商業の"
+  },
+  {
+    "ID": "430",
+    "Word": "complete",
+    "Part": "形容詞／動詞",
+    "JP": "完全な／…を完了する"
+  },
+  {
+    "ID": "431",
+    "Word": "complex",
+    "Part": "形容詞",
+    "JP": "複雑な"
+  },
+  {
+    "ID": "432",
+    "Word": "complicated",
+    "Part": "形容詞",
+    "JP": "複雑な"
+  },
+  {
+    "ID": "433",
+    "Word": "concrete",
+    "Part": "形容詞",
+    "JP": "具体的な"
+  },
+  {
+    "ID": "434",
+    "Word": "conscious",
+    "Part": "形容詞",
+    "JP": "気づいている，意識した"
+  },
+  {
+    "ID": "435",
+    "Word": "contemporary",
+    "Part": "形容詞",
+    "JP": "現在の，当世の"
+  },
+  {
+    "ID": "436",
+    "Word": "critical",
+    "Part": "形容詞",
+    "JP": "極めて重要な，非常に深刻な"
+  },
+  {
+    "ID": "437",
+    "Word": "definite",
+    "Part": "形容詞",
+    "JP": "確固とした，明確な"
+  },
+  {
+    "ID": "438",
+    "Word": "domestic",
+    "Part": "形容詞",
+    "JP": "国内の，家庭内の"
+  },
+  {
+    "ID": "439",
+    "Word": "due to",
+    "Part": "形容詞句",
+    "JP": "…が原因で"
+  },
+  {
+    "ID": "440",
+    "Word": "dumb",
+    "Part": "形容詞",
+    "JP": "口が利けない"
+  },
+  {
+    "ID": "441",
+    "Word": "efficient",
+    "Part": "形容詞",
+    "JP": "効率のよい"
+  },
+  {
+    "ID": "442",
+    "Word": "enormous",
+    "Part": "形容詞",
+    "JP": "膨大な"
+  },
+  {
+    "ID": "443",
+    "Word": "equivalent",
+    "Part": "形容詞",
+    "JP": "等しい"
+  },
+  {
+    "ID": "444",
+    "Word": "eternal",
+    "Part": "形容詞",
+    "JP": "永遠の"
+  },
+  {
+    "ID": "445",
+    "Word": "excellent",
+    "Part": "形容詞",
+    "JP": "すばらしい"
+  },
+  {
+    "ID": "446",
+    "Word": "exclusive",
+    "Part": "形容詞",
+    "JP": "排他的な"
+  },
+  {
+    "ID": "447",
+    "Word": "extraordinary",
+    "Part": "形容詞",
+    "JP": "特別な，ただならぬ"
+  },
+  {
+    "ID": "448",
+    "Word": "federal",
+    "Part": "形容詞",
+    "JP": "連邦の"
+  },
+  {
+    "ID": "449",
+    "Word": "financial",
+    "Part": "形容詞",
+    "JP": "金融の，財政の"
+  },
+  {
+    "ID": "450",
+    "Word": "flexible",
+    "Part": "形容詞",
+    "JP": "柔軟な"
+  },
+  {
+    "ID": "451",
+    "Word": "fortunate",
+    "Part": "形容詞",
+    "JP": "幸運な"
+  },
+  {
+    "ID": "452",
+    "Word": "fundamental",
+    "Part": "形容詞",
+    "JP": "根本的な，基本的な"
+  },
+  {
+    "ID": "453",
+    "Word": "genuine",
+    "Part": "形容詞",
+    "JP": "本物の"
+  },
+  {
+    "ID": "454",
+    "Word": "gigantic",
+    "Part": "形容詞",
+    "JP": "巨大な"
+  },
+  {
+    "ID": "455",
+    "Word": "grave",
+    "Part": "形容詞／名詞",
+    "JP": "重大な，深刻な／墓"
+  },
+  {
+    "ID": "456",
+    "Word": "guilty",
+    "Part": "形容詞",
+    "JP": "有罪である，罪悪感がある"
+  },
+  {
+    "ID": "457",
+    "Word": "hostile",
+    "Part": "形容詞",
+    "JP": "敵意のある"
+  },
+  {
+    "ID": "458",
+    "Word": "immense",
+    "Part": "形容詞",
+    "JP": "巨大な"
+  },
+  {
+    "ID": "459",
+    "Word": "in vain",
+    "Part": "形容詞句",
+    "JP": "うまくいかない"
+  },
+  {
+    "ID": "460",
+    "Word": "incredible",
+    "Part": "形容詞",
+    "JP": "信じられない"
+  },
+  {
+    "ID": "461",
+    "Word": "indispensable",
+    "Part": "形容詞",
+    "JP": "必要不可欠な"
+  },
+  {
+    "ID": "462",
+    "Word": "individual",
+    "Part": "形容詞／名詞",
+    "JP": "個々の／個人"
+  },
+  {
+    "ID": "463",
+    "Word": "inevitable",
+    "Part": "形容詞",
+    "JP": "避けることのできない"
+  },
+  {
+    "ID": "464",
+    "Word": "intense",
+    "Part": "形容詞",
+    "JP": "激しい"
+  },
+  {
+    "ID": "465",
+    "Word": "invisible",
+    "Part": "形容詞",
+    "JP": "目に見えない"
+  },
+  {
+    "ID": "466",
+    "Word": "keen",
+    "Part": "形容詞",
+    "JP": "熱心な，しきりに望む"
+  },
+  {
+    "ID": "467",
+    "Word": "legal",
+    "Part": "形容詞",
+    "JP": "合法な，法律の"
+  },
+  {
+    "ID": "468",
+    "Word": "likely",
+    "Part": "形容詞",
+    "JP": "可能性が高い"
+  },
+  {
+    "ID": "469",
+    "Word": "magnificent",
+    "Part": "形容詞",
+    "JP": "すばらしい，最高の"
+  },
+  {
+    "ID": "470",
+    "Word": "manifest",
+    "Part": "形容詞／動詞",
+    "JP": "明らかな／…を明らかにする"
+  },
+  {
+    "ID": "471",
+    "Word": "manual",
+    "Part": "形容詞",
+    "JP": "肉体の，手動の"
+  },
+  {
+    "ID": "472",
+    "Word": "marvelous",
+    "Part": "形容詞",
+    "JP": "すばらしい"
+  },
+  {
+    "ID": "473",
+    "Word": "mature",
+    "Part": "形容詞",
+    "JP": "成熟した"
+  },
+  {
+    "ID": "474",
+    "Word": "maximum",
+    "Part": "形容詞",
+    "JP": "最大限の"
+  },
+  {
+    "ID": "475",
+    "Word": "medieval",
+    "Part": "形容詞",
+    "JP": "中世の"
+  },
+  {
+    "ID": "476",
+    "Word": "mutual",
+    "Part": "形容詞",
+    "JP": "相互の"
+  },
+  {
+    "ID": "477",
+    "Word": "native",
+    "Part": "形容詞",
+    "JP": "生まれ育った／現地の人"
+  },
+  {
+    "ID": "478",
+    "Word": "negative",
+    "Part": "形容詞",
+    "JP": "否定的な"
+  },
+  {
+    "ID": "479",
+    "Word": "neutral",
+    "Part": "形容詞",
+    "JP": "中立の"
+  },
+  {
+    "ID": "480",
+    "Word": "numerous",
+    "Part": "形容詞",
+    "JP": "数多くの"
+  },
+  {
+    "ID": "481",
+    "Word": "obscure",
+    "Part": "形容詞",
+    "JP": "不明瞭な，ほとんど知る人のいない"
+  },
+  {
+    "ID": "482",
+    "Word": "obvious",
+    "Part": "形容詞",
+    "JP": "明らかな"
+  },
+  {
+    "ID": "483",
+    "Word": "odd",
+    "Part": "形容詞",
+    "JP": "変な，半端な"
+  },
+  {
+    "ID": "484",
+    "Word": "official",
+    "Part": "形容詞／名詞",
+    "JP": "公式の／権限をもつ人物"
+  },
+  {
+    "ID": "485",
+    "Word": "overseas",
+    "Part": "形容詞／副詞",
+    "JP": "海外の，海外で"
+  },
+  {
+    "ID": "486",
+    "Word": "partial",
+    "Part": "形容詞",
+    "JP": "部分的な"
+  },
+  {
+    "ID": "487",
+    "Word": "patient",
+    "Part": "形容詞／名詞",
+    "JP": "辛抱強い／患者"
+  },
+  {
+    "ID": "488",
+    "Word": "peculiar",
+    "Part": "形容詞",
+    "JP": "奇妙な"
+  },
+  {
+    "ID": "489",
+    "Word": "physical",
+    "Part": "形容詞",
+    "JP": "肉体の，物理的な"
+  },
+  {
+    "ID": "490",
+    "Word": "plain",
+    "Part": "形容詞",
+    "JP": "無地の，簡素な，明白な"
+  },
+  {
+    "ID": "491",
+    "Word": "positive",
+    "Part": "形容詞",
+    "JP": "確信のある，肯定的な"
+  },
+  {
+    "ID": "492",
+    "Word": "potential",
+    "Part": "形容詞／名詞",
+    "JP": "潜在的な／潜在能力"
+  },
+  {
+    "ID": "493",
+    "Word": "precious",
+    "Part": "形容詞",
+    "JP": "貴重な"
+  },
+  {
+    "ID": "494",
+    "Word": "precise",
+    "Part": "形容詞",
+    "JP": "正確な"
+  },
+  {
+    "ID": "495",
+    "Word": "primary",
+    "Part": "形容詞",
+    "JP": "最も重要な，最優先の"
+  },
+  {
+    "ID": "496",
+    "Word": "principal",
+    "Part": "形容詞",
+    "JP": "主要な"
+  },
+  {
+    "ID": "497",
+    "Word": "profound",
+    "Part": "形容詞",
+    "JP": "深い，大きな"
+  },
+  {
+    "ID": "498",
+    "Word": "prompt",
+    "Part": "形容詞",
+    "JP": "迅速な"
+  },
+  {
+    "ID": "499",
+    "Word": "public",
+    "Part": "形容詞／名詞",
+    "JP": "公共の，公衆の／大衆"
+  },
+  {
+    "ID": "500",
+    "Word": "rational",
+    "Part": "形容詞",
+    "JP": "理性的な，合理的な"
+  },
+  {
+    "ID": "501",
+    "Word": "raw",
+    "Part": "形容詞",
+    "JP": "生の，元のままの"
+  },
+  {
+    "ID": "502",
+    "Word": "relative",
+    "Part": "形容詞",
+    "JP": "相対的な"
+  },
+  {
+    "ID": "503",
+    "Word": "reliable",
+    "Part": "形容詞",
+    "JP": "頼れる"
+  },
+  {
+    "ID": "504",
+    "Word": "remote",
+    "Part": "形容詞",
+    "JP": "遠くの，遠い"
+  },
+  {
+    "ID": "505",
+    "Word": "routine",
+    "Part": "形容詞",
+    "JP": "お決まりの，決まった作業過程"
+  },
+  {
+    "ID": "506",
+    "Word": "rural",
+    "Part": "形容詞",
+    "JP": "地方の，田舎の"
+  },
+  {
+    "ID": "507",
+    "Word": "sensitive",
+    "Part": "形容詞",
+    "JP": "繊細な，敏感な"
+  },
+  {
+    "ID": "508",
+    "Word": "sheer",
+    "Part": "形容詞",
+    "JP": "全くの，完全な"
+  },
+  {
+    "ID": "509",
+    "Word": "specific",
+    "Part": "形容詞",
+    "JP": "特定の，具体的な"
+  },
+  {
+    "ID": "510",
+    "Word": "steady",
+    "Part": "形容詞",
+    "JP": "途切れのない，着実な"
+  },
+  {
+    "ID": "511",
+    "Word": "steep",
+    "Part": "形容詞",
+    "JP": "急な"
+  },
+  {
+    "ID": "512",
+    "Word": "striking",
+    "Part": "形容詞",
+    "JP": "際立つ，目立った"
+  },
+  {
+    "ID": "513",
+    "Word": "subtle",
+    "Part": "形容詞",
+    "JP": "微妙な"
+  },
+  {
+    "ID": "514",
+    "Word": "suitable",
+    "Part": "形容詞",
+    "JP": "適した"
+  },
+  {
+    "ID": "515",
+    "Word": "summary",
+    "Part": "形容詞",
+    "JP": "要約"
+  },
+  {
+    "ID": "516",
+    "Word": "superficial",
+    "Part": "形容詞",
+    "JP": "表面的な"
+  },
+  {
+    "ID": "517",
+    "Word": "supreme",
+    "Part": "形容詞",
+    "JP": "最高の，最上位の"
+  },
+  {
+    "ID": "518",
+    "Word": "tremendous",
+    "Part": "形容詞",
+    "JP": "とてつもない"
+  },
+  {
+    "ID": "519",
+    "Word": "ultimate",
+    "Part": "形容詞",
+    "JP": "究極の"
+  },
+  {
+    "ID": "520",
+    "Word": "upright",
+    "Part": "形容詞",
+    "JP": "直立した"
+  },
+  {
+    "ID": "521",
+    "Word": "upset",
+    "Part": "形容詞",
+    "JP": "心が動揺した"
+  },
+  {
+    "ID": "522",
+    "Word": "urban",
+    "Part": "形容詞",
+    "JP": "都会の"
+  },
+  {
+    "ID": "523",
+    "Word": "vague",
+    "Part": "形容詞",
+    "JP": "漠然とした"
+  },
+  {
+    "ID": "524",
+    "Word": "vast",
+    "Part": "形容詞",
+    "JP": "広大な，多大な"
+  },
+  {
+    "ID": "525",
+    "Word": "visible",
+    "Part": "形容詞",
+    "JP": "目に見える"
+  },
+  {
+    "ID": "526",
+    "Word": "vivid",
+    "Part": "形容詞",
+    "JP": "鮮明な"
+  },
+  {
+    "ID": "527",
+    "Word": "worth",
+    "Part": "形容詞句",
+    "JP": "…の価値がある"
+  }
+]
