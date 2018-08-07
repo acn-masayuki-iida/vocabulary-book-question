@@ -180,7 +180,7 @@ query getRandomWords($Part: String!) {
 ------------------------------------------------------------
 
 ・server_graphql8.js
-
+任意の数、ランダムに単語を取得する
 ----QUERY --------------------------------------------------
 query getRandomWords($num: Int!) {
   randomWords(Num: $num) {
