@@ -179,8 +179,25 @@ query getRandomWords($Part: String!) {
 }
 ------------------------------------------------------------
 
-//取得コマンド
+・server_graphql8.js
+
+----QUERY --------------------------------------------------
+query getRandomWords($num: Int!) {
+  randomWords(Num: $num) {
+    ID
+    Word
+  }
+}
+
+----QUERY VARIABLES-----------------------------------------
+{
+  "num": 10
+}
+------------------------------------------------------------
+
+
+//curlの取得コマンド
 curl -X POST http://localhost:4000/graphql -H "Content-Type:application/json" -d '{ "query": "query getRandomWords{ randomWords(Part: \"verb\") {ID} }"}'
 
-//取得コマンド
+//curlの取得コマンド
 curl -X POST http://localhost:4000/graphql -H "Content-Type:application/json" -d '{ "query": "query getRandomWords($Part: String!) { randomWords(Part: $Part) {ID,Word} }", "operationName": "getRandomWords", "variables": { "Part": "verb" } }'
