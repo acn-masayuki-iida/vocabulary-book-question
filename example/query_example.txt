@@ -204,7 +204,7 @@ curl -X POST http://localhost:4000/graphql -H "Content-Type:application/json" -d
 
 ・server_graphql9.js
 任意の数、ランダムに単語を取得する
-かつ選択肢も人単語導出する
+かつ選択肢も一単語だけ導出する
 ----QUERY --------------------------------------------------
 query getRandomWords($num: Int!) {
   randomWords(Num: $num) {
@@ -215,6 +215,26 @@ query getRandomWords($num: Int!) {
   }
 }
 ----QUERY VARIABLES-----------------------------------------
+{
+  "num": 10
+}
+------------------------------------------------------------
+
+
+・server_graphql9.js
+任意の数、ランダムに単語を取得する
+かつ選択肢を3つ導出する
+----QUERY --------------------------------------------------
+query getRandomWords($num: Int!) {
+  randomWords(Num: $num) {
+    ID
+    Word
+    JP
+    choice {
+      JP
+    }
+  }
+}----QUERY VARIABLES-----------------------------------------
 {
   "num": 10
 }
