@@ -42,94 +42,91 @@ var getWords = function (args) {
 
 // 指定した単語の数だけデータを取得する
 var getRandomWords = function (args) {
-    // 取得したい単語数
-    var questionWordCount = args.Num;
-    var result = [];
+  // 取得したい単語数
+  var questionWordCount = args.Num;
+  var result = [];
 
-    //出題予定の単語のIDを格納
-    var wordIdList = [];
+  //出題予定の単語のIDを格納
+  var wordIdList = [];
 
-    //wordIdListに格納されている単語数
-    var wordCount = 0;
+  //wordIdListに格納されている単語数
+  var wordCount = 0;
 
-    //wordCountの数だけランダムに単語を取得する
-    var index;
+  //wordCountの数だけランダムに単語を取得する
+  var index;
 
-    // 条件に合致した単語数取得
-    var wordNum = Object.keys(wordData).length;
+  // 条件に合致した単語数取得
+  var wordNum = Object.keys(wordData).length;
 
-    // 取得したい単語数が多い場合のエラーハンドリング
-    if (questionWordCount > wordNum) {
-      questionWordCount = wordNum;
-    }
+  // 取得したい単語数が多い場合のエラーハンドリング
+  if (questionWordCount > wordNum) {
+    questionWordCount = wordNum;
+  }
 
-    // wordCount配列に取得したい単語数が格納されるまで繰り返し実行
-    // 同じ単語を出題しないようにwordIdListを使用して重複排除
-    while (wordCount < questionWordCount) {
-      index = getRanomScore(0,wordNum);
+  // wordCount配列に取得したい単語数が格納されるまで繰り返し実行
+  // 同じ単語を出題しないようにwordIdListを使用して重複排除
+  while (wordCount < questionWordCount) {
+    index = getRanomScore(0, wordNum);
 
-      // 既にIDが格納されているかチェック
-      // 格納されていない場合のみ、単語を格納
-      if (wordIdList.indexOf(index) == -1) {
-        wordIdList.push(index);
+    // 既にIDが格納されているかチェック
+    // 格納されていない場合のみ、単語を格納
+    if (wordIdList.indexOf(index) == -1) {
+      wordIdList.push(index);
 
-        result1 = wordData[index];
-        result.push(result1);
+      result1 = wordData[index];
+      result.push(result1);
 
-        //選択肢の作成
-        var choiceIndex = [];
-        choiceIndex.push(index);
-        var choiceNum = 3;
-        var choiceCount = 0;
+      //選択肢の作成
+      var choiceIndex = [];
+      choiceIndex.push(index);
+      var choiceNum = 3;
+      var choiceCount = 0;
 
-        // 選択肢の回答とも重複しないようにchoiceNum+1とする
-        while (choiceCount < choiceNum + 1) {
-          //ランダムに選択肢となりえるインデックス番号を取得
-          var tmp = getRanomScore(0, wordNum);
+      // 選択肢の回答とも重複しないようにchoiceNumとする
+      while (choiceCount < choiceNum) {
+        //ランダムに選択肢となりえるインデックス番号を取得
+        var tmp = getRanomScore(0, wordNum);
 
-          if (choiceIndex.indexOf(tmp) == -1) {
-            choiceIndex.push(tmp)
-            choiceCount++
-          }
-
+        if (choiceIndex.indexOf(tmp) == -1) {
+          choiceIndex.push(tmp)
+          choiceCount++
         }
 
+      }
 
-        // result[wordCount].choice = wordData[choiceIndex].JP
-        result[wordCount].choice = [
-          {
-            JP: wordData[choiceIndex[1]].JP
-          },
-          {
-            JP: wordData[choiceIndex[2]].JP
-          },
-          {
-            JP: wordData[choiceIndex[3]].JP
-          }
+
+      // result[wordCount].choice = wordData[choiceIndex].JP
+      result[wordCount].choice = [{
+          JP: wordData[choiceIndex[1]].JP
+        },
+        {
+          JP: wordData[choiceIndex[2]].JP
+        },
+        {
+          JP: wordData[choiceIndex[3]].JP
+        }
       ];
 
-        console.log(choiceIndex);
-        console.log('------------------------------------------------');
-        wordCount++
-
-      }
+      console.log(choiceIndex);
+      wordCount++
     }
+  }
 
-    return result;
+  return result;
 }
 
 // 指定された範囲でランダムな整数を返却する
 function getRanomScore(min, max) {
-  var random = Math.floor(Math.random() * (max + 1 - min)) + min;
+  var random = Math.floor(Math.random() * (max - min)) + min;
 
   return random;
 }
 
 var root = {
   //クエリ名：呼び出し関数
-  word        : getWord,
-  words       : getWords,
-  randomWords : getRandomWords
+  word: getWord,
+  words: getWords,
+  randomWords: getRandomWords
 };
 
 // Create an express server and a GraphQL endpoint
